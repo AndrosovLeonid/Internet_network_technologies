@@ -20,3 +20,13 @@ li {
 	background: green;
 }
 */
+
+a{
+text-decoration: none; /* Убирает подчеркивание для ссылок */
+} 
+a:hover { 
+text-decoration: underline; /* Добавляем подчеркивание при наведении курсора на ссылку */
+color: red; /* Ссылка красного цвета */
+} 
+
+
