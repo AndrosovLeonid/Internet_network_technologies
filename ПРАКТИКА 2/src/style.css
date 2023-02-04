@@ -1,0 +1,19 @@
+div{
+	color: purple;
+	background: darkred;
+}
+h1 {
+	background: black;
+}
+p{
+	background: rgb(200, 255, 255);
+}
+li {
+	background: rgba(270, 56, 40, 1.0)!important;
+}
+#titleTwo {
+	background: green;
+}
+.one {
+	background: yellow;
+}
