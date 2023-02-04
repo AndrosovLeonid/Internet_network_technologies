@@ -1,11 +1,16 @@
-div{
+/*div{
 	color: purple;
 	background: darkred;
-}
+}*/
 h1 {
 	background: black;
+	color: white;
 }
-p{
+h2 {
+	background: black;
+	color: white;
+}
+/*p{
 	background: rgb(200, 255, 255);
 }
 li {
@@ -14,6 +19,4 @@ li {
 #titleTwo {
 	background: green;
 }
-.one {
-	background: yellow;
-}
+*/
